@@ -12,3 +12,9 @@ The prototype imitates the slicing action of cutting the sand with the use of [T
 Other free asset store items have also been used to add visual charm and save time.
 The app "ASMR Slicing" also deforms the sliced sand to exagerate the effect of slicing, however this is not present in this prototype as the usage mesh deformation
 is well beyond the scope of this project.
+
+# Visuals
+
+<img src="images/sc1.jpg" width=300><img src="images/sc2.jpg" width=300>
+
+The screenshot on the left is from this prototype, as stated previously no mesh deformation takes place once the slice is complete. The screenshot on the right is from the app "ASMR Slicing", some mesh deformation is clearly visible while slicing.
